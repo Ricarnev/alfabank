@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/alfabank/static/css/main.2f9b0924.chunk.css",
-    "main.js": "/alfabank/static/js/main.9ec1543e.chunk.js",
-    "main.js.map": "/alfabank/static/js/main.9ec1543e.chunk.js.map",
+    "main.css": "/alfabank/static/css/main.19f200ff.chunk.css",
+    "main.js": "/alfabank/static/js/main.b82b76c9.chunk.js",
+    "main.js.map": "/alfabank/static/js/main.b82b76c9.chunk.js.map",
     "runtime-main.js": "/alfabank/static/js/runtime-main.292b3d08.js",
     "runtime-main.js.map": "/alfabank/static/js/runtime-main.292b3d08.js.map",
     "static/js/2.703f17f2.chunk.js": "/alfabank/static/js/2.703f17f2.chunk.js",
     "static/js/2.703f17f2.chunk.js.map": "/alfabank/static/js/2.703f17f2.chunk.js.map",
     "index.html": "/alfabank/index.html",
-    "static/css/main.2f9b0924.chunk.css.map": "/alfabank/static/css/main.2f9b0924.chunk.css.map",
+    "static/css/main.19f200ff.chunk.css.map": "/alfabank/static/css/main.19f200ff.chunk.css.map",
     "static/js/2.703f17f2.chunk.js.LICENSE.txt": "/alfabank/static/js/2.703f17f2.chunk.js.LICENSE.txt",
+    "static/media/github.04be58c1.svg": "/alfabank/static/media/github.04be58c1.svg",
     "static/media/like.6e367571.svg": "/alfabank/static/media/like.6e367571.svg",
     "static/media/remove.562b6f7b.svg": "/alfabank/static/media/remove.562b6f7b.svg",
     "static/media/unlike.810c2b26.svg": "/alfabank/static/media/unlike.810c2b26.svg"
@@ -17,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.292b3d08.js",
     "static/js/2.703f17f2.chunk.js",
-    "static/css/main.2f9b0924.chunk.css",
-    "static/js/main.9ec1543e.chunk.js"
+    "static/css/main.19f200ff.chunk.css",
+    "static/js/main.b82b76c9.chunk.js"
   ]
 }
